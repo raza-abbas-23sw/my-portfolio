@@ -25,7 +25,7 @@ import habibLogo from './assets/education_logo/habib_logo.jpg';
 import muetLogo from './assets/education_logo/muet_logo.png';
 
 // Project Section Logo's
-import hultprize from './assets/work_logo/hultprize.JPG'
+import hultprize from './assets/work_logo/hultprize.jpg'
 import itcompany from './assets/work_logo/itcompany.jpg';
 import movierecLogo from './assets/work_logo/movie_rec.png';
 
