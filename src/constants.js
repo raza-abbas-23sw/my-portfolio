@@ -89,7 +89,7 @@ export const SkillsInfo = [
       date: "Aug 2021 - Jun 2023",
       grade: "86%",
       desc: "I completed my intermediate studies in Pre-Engineering from Habib Public High School in 2023, under the Aga Khan University Examination Board (AKUEB).",
-      degree: "Intermidiate",
+      degree: "intermediate",
     },
     {
       id: 2,
