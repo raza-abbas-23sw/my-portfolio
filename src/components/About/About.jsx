@@ -14,7 +14,6 @@ const About = () => {
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-white mb-2 leading-tight">
             Hi, I am
           </h1>
-          {/* Name */}
           <h2 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-4 leading-tight">
             Raza Abbas
           </h2>
