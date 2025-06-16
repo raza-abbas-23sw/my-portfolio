@@ -27,7 +27,7 @@ import muetLogo from './assets/education_logo/muet_logo.png';
 // Project Section Logo's
 import hultprize from './assets/work_logo/hultprize.jpg'
 import itcompany from './assets/work_logo/itcompany.jpg';
-import movierecLogo from './assets/work_logo/movie_rec.png';
+import slims from './assets/work_logo/slims.jpeg';
 
 
 export const SkillsInfo = [
@@ -125,13 +125,13 @@ export const SkillsInfo = [
     },
     {
       id: 2,
-      title: "Movie Recommendation App",
+      title: "State Life Insurance Management System",
       description:
-        "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
-      image: movierecLogo,
-      tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
+        "SLIMS is a comprehensive digital solution designed to empower State Life Insurance agents with powerful tools for client management, policy administration, and business growth. This modern web application transforms manual insurance processes into an efficient digital workflow, enabling agents to focus on client relationships rather than paperwork.",
+      image: slims,
+      tags: ["React JS", "Tailwind", "Git",  "JavaScript"],
       github: "#",
-      webapp: "#",
-    },
+      webapp: "https://statelifeinsurance-demo.netlify.app/",
+    }
 
   ];  
