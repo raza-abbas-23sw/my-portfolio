@@ -38,7 +38,7 @@ const About = () => {
           Frontend developer with expertise in JavaScript, React, HTML, and CSS. I build responsive and interactive web interfaces using frameworks like Bootstrap and Tailwind CSS. With strong experience in Git and GitHub, I ensure smooth version control and collaboration throughout the development process.
           </p>
           <a
-            href="https://drive.google.com/file/d/1t7GuEih5WTwh1lMprytni9YoH9GSsPft/view?usp=sharing"
+            href="https://drive.google.com/file/d/1Z52dFwdKDre-gFdgK9BOVk5aiHRE-nWL/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
