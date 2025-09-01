@@ -46,8 +46,9 @@ export const SkillsInfo = [
   {
     title: 'Backend',
     skills: [
-      { name: 'MySQL', logo: mysqlLogo },
-      { name: 'Firebase', logo: firebaseLogo },
+      { name: 'MongoDB', logo: mongoLogo },
+      { name: 'Node Js', logo: nodeLogo },
+      { name: 'Express Js', logo: expressLogo },
     ],
   },
   {
