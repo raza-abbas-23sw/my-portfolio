@@ -21,8 +21,8 @@ const About = () => {
             <span className="text-white">I am a </span>
             <ReactTypingEffect
               text={[
-                'Frontend Developer',
-                'React Developer',
+                '𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫',
+                'MERN Stack Developer',
                 'Problem Solver',
               ]}
               speed={100}
@@ -35,7 +35,7 @@ const About = () => {
             />
           </h3>
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-          Frontend developer with expertise in JavaScript, React, HTML, and CSS. I build responsive and interactive web interfaces using frameworks like Bootstrap and Tailwind CSS. With strong experience in Git and GitHub, I ensure smooth version control and collaboration throughout the development process.
+          I’m a 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with 2+ years of experience architecting end-to-end web solutions that transform complex business needs into intuitive, high-performance applications. My work bridges technical rigor with user-centric design – whether building enterprise systems, competition platforms, or corporate tools. I thrive in fast-paced environments (especially hackathons!) where agility and innovation collide to solve real-world problems.
           </p>
           <a
             href="https://drive.google.com/file/d/1Z52dFwdKDre-gFdgK9BOVk5aiHRE-nWL/view?usp=drive_link"
