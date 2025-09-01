@@ -38,7 +38,7 @@ const About = () => {
           I’m a Full-stack Developer with 2+ years of experience architecting end-to-end web solutions that transform complex business needs into intuitive, high-performance applications. My work bridges technical rigor with user-centric design – whether building enterprise systems, competition platforms, or corporate tools.
           </p>
           <a
-            href="https://drive.google.com/file/d/1Z52dFwdKDre-gFdgK9BOVk5aiHRE-nWL/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1a1vam9ux9oy3cziBY0QspgDXLPFWx8g0/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
