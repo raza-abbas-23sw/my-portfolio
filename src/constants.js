@@ -16,6 +16,10 @@ import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
 import netlifyLogo from './assets/tech_logo/netlify.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
+import mongoLogo from './assets/tech_logo/mongodb.png';
+import expressLogo from './assets/tech_logo/express.png';
+import nodeLogo from './assets/tech_logo/nodejs.png';
+
 
 
 
